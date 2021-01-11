@@ -21,9 +21,9 @@
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，1989年出生
- - 求职意向：Golang研发工程师
+ - 求职意向：PHP,架构师，Golang
  - 工作经验：10年
- - 期望薪资：30k
+ - 期望薪资：24-26k（16薪）
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
